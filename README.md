@@ -37,7 +37,7 @@ Proyek ini dibangun menggunakan teknologi dan pustaka berikut:
 
 | Daftar Blog (Index) | Tambah/Edit Blog (Form) |
 | :---: | :---: |
-| ![Screenshot Index](public/img/screenshot-index.png) | ![Screenshot Form](public/img/screenshot-form.png) |
+| ![Screenshot Index](public/imgages/1.jpg) | ![Screenshot Form](public/images/2.jpg) | ![Screenshot Form](public/images/3.jpg) | ![Screenshot Form](public/images/4.jpg) | ![Screenshot Form](public/images/5.jpg) |
 
 ---
 
