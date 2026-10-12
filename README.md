@@ -33,7 +33,7 @@ Proyek ini dibangun menggunakan teknologi dan pustaka berikut:
 
 ## 📸 Screenshots
 
-| ![Screenshot Form](public/imgages/1.jpg) | ![Screenshot Form](public/images/2.jpg) | ![Screenshot Form](public/images/3.jpg) | ![Screenshot Form](public/images/4.jpg) | ![Screenshot Form](public/images/5.jpg) |
+| ![Screenshot Form](public/images/1.jpg) | ![Screenshot Form](public/images/2.jpg) | ![Screenshot Form](public/images/3.jpg) | ![Screenshot Form](public/images/4.jpg) | ![Screenshot Form](public/images/5.jpg) |
 
 ---
 
